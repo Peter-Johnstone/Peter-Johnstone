@@ -16,5 +16,3 @@ I'm a Computer Science and Engineering student with a passion for computers, mat
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" />
 <br />
-
-#

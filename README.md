@@ -2,11 +2,13 @@
 
 **`Digital Entrepreneur (Founder/Developer/Language Learner)`**
 
-I’m a senior in Computer Science & Engineering at Bucknell University with a second major in Japanese. I’m a native English speaker, fluent in German, and I passed JLPT N1 (Dec 2023). I love building things end-to-end—especially chess engines and search systems—and I’m currently focused on systems programming in Rust and algorithmic performance.
+I’m a senior in Computer Science & Engineering at Bucknell University with a second major in Japanese. I’m a native English speaker, fluent in German, and I passed JLPT N1 (Dec 2023). I love building things, especially chess engines and search systems, and I’m currently focused on systems programming in Rust and algorithmic performance.
 
 On the product side, I’ve been building Eigofy, a Chrome extension that lets learners instantly look up English while watching Netflix/YouTube or reading across the web. On the engineering side, I’ve created multiple chess engines: a Python engine around ~1800 ELO, and a Rust engine with advanced search/heuristics that play with ~2900 strength. I enjoy the craft of move generation, evaluation, pruning, and turning ideas into polished, usable tools.
 
 I’m excited about roles at the intersection of systems, AI/search, and developer tools—places where performance, clarity, and user impact meet.
+
+Check out my GitHub: https://github.com/Peter-Johnstone
 
 
 ### Languages and Tools

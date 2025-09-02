@@ -2,7 +2,11 @@
 
 **`Digital Entrepreneur (Founder/Developer/Language Learner)`**
 
-I'm a Computer Science and Engineering student with a passion for computers, mathematics, and language learning. Over the past four years, I’ve been dedicated to mastering Japanese, culminating in passing the highest level of the Japanese Language Proficiency Test (**JLPT N1**) in December 2023. My interest in languages and technology led me to co-found ["**Eigofy**"](https://chromewebstore.google.com/detail/eigofy/foefaklgdkdbnpfcfoiplcejnefgemnf) alongside two friends. **Eigofy** is a versatile tool available as a Google extension, web app, and mobile app that supports Japanese learners of English. It allows users to seamlessly scan any English word they encounter online and provides an interactive popup containing definitions, example sentences, frequency information, audio pronunciations, and grammatical details—all in Japanese. Users can save their vocabulary and practice with personalized flashcards through the mobile and web app. 
+I’m a senior in Computer Science & Engineering at Bucknell University with a second major in Japanese. I’m a native English speaker, fluent in German, and I passed JLPT N1 (Dec 2023). I love building things end-to-end—especially chess engines and search systems—and I’m currently focused on systems programming in Rust and algorithmic performance.
+
+On the product side, I’ve been building Eigofy, a Chrome extension that lets learners instantly look up English while watching Netflix/YouTube or reading across the web. On the engineering side, I’ve created multiple chess engines: a Python engine around ~1800 ELO, and a Rust engine with advanced search/heuristics that play with ~2900 strength. I enjoy the craft of move generation, evaluation, pruning, and turning ideas into polished, usable tools.
+
+I’m excited about roles at the intersection of systems, AI/search, and developer tools—places where performance, clarity, and user impact meet.
 
 
 ### Languages and Tools
